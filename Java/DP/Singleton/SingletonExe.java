@@ -1,4 +1,4 @@
-package DP;
+package DP.singleton;
 
 /**
  * Singleton‚ÌŒÄ‚Ño‚µƒNƒ‰ƒX
