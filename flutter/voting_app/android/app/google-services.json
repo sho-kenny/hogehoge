@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "866773041562",
+    "project_id": "voting-app-d52a8",
+    "storage_bucket": "voting-app-d52a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866773041562:android:0672b5fc98e4613467fa23",
+        "android_client_info": {
+          "package_name": "jp.co.com.kenny.shone.voting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866773041562-5i0ck53hebfag2vvmni43gbprhaafas6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr4YSl5dPkqy1TMWWhNRLfYLHU-7MuzjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866773041562-5i0ck53hebfag2vvmni43gbprhaafas6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "866773041562-dj96dnblmb40854fg1unt7s9fc4138vc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.com.kenny.shone.votingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
