@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "868358513641",
+    "project_id": "mlkit-app-8235d",
+    "storage_bucket": "mlkit-app-8235d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868358513641:android:12f0f4c8ae3d1032f7e178",
+        "android_client_info": {
+          "package_name": "jp.co.com.kenny.shone.mlkit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868358513641-313990ehprp9gtuk1libnssvn908q95g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvIkRkR34_WXusPbivjPL5unPYQf7oZco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868358513641-313990ehprp9gtuk1libnssvn908q95g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868358513641-89g2ptju5q78ileivldemipnqpab4jqe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.com.kenny.shone.mlkitApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
