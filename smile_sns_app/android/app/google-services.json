@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759475252046",
+    "project_id": "smile-sns-app",
+    "storage_bucket": "smile-sns-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759475252046:android:f6e8a1224aa580ac3d4c1f",
+        "android_client_info": {
+          "package_name": "jp.co.com.kenny.shone.smile_sns_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759475252046-1a9tfc01b4pdrdo2euf92lmrvfu7l0m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWyjIHCduM4J12LnW8DrSMUfWDmCA0gg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759475252046-1a9tfc01b4pdrdo2euf92lmrvfu7l0m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
